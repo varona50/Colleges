@@ -1,18 +1,22 @@
 {
-  "name": "colleges",
-  "description": "demo colleges list",
-  "main": "",
-  "authors": [
-    "varona50 <33759804+varona50@users.noreply.github.com>"
-  ],
-  "license": "MIT",
-  "homepage": "https://github.com/varona50/Colleges",
-  "private": true,
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+    "name": "colleges",
+    "description": "demo colleges list",
+    "main": "",
+    "authors": [
+        "varona50 <33759804+varona50@users.noreply.github.com>"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/varona50/Colleges",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "j-query": "latest",
+        "bootstrap": "3.3.7"
+    }
 }
